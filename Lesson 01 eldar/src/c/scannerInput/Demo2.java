@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class Demo2 {
 
-	/* יש לקלוט שני מספרים ולהציג את סכומם */
+	/*
+	 * get 2 numbers as input and print the sum
+	 */
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);

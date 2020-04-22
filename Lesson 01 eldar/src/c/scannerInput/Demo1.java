@@ -18,11 +18,9 @@ public class Demo1 {
 		// print the input value
 		System.out.println("Hello " + name);
 
-		// ככה קולטים מספר
+		// This is how you get a number as input
 		int x = sc.nextInt();
 		System.out.println(x);
-
-		/* יש לקלוט שני מספרים ולהציג את סכומם */
 
 		// when done with the scanner, we close it.
 		sc.close();

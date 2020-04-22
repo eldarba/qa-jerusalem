@@ -5,7 +5,6 @@ public class Demo1 {
 	/*
 	 * bit - BInary digiT - the digits 0 and 1
 	 * 
-	 * סיבית - ספרה בינארית
 	 * 
 	 * byte - a group of 8 bits: 00000010
 	 * 
@@ -14,13 +13,13 @@ public class Demo1 {
 	public static void main(String[] args) {
 		// primitives are the most simple types in java:
 
-		// integers - שלמים
+		// integers - whole numbers
 		byte n1 = 127; // 8 bit -128 to 127
 		short n2 = 32767; // 16 bit
 		int n3 = 2147483647; // 32 bit - most used
 		long n4 = 9223372036854775807L; // 64 bit
 
-		// decimal - עשרוניים
+		// decimal - fractions
 		float n5 = 5.8F; // 32 bit
 		double n6 = 5.3; // 64 bit - most used
 
